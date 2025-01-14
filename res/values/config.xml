@@ -13,8 +13,8 @@
         <item>MANUFACTURER:Google</item>
         <item>BRAND:google</item>
         <item>MODEL:Pixel 9 Pro Fold</item>
-        <item>FINGERPRINT:google/comet_beta/comet:Baklava/BP21.241018.009/12628839:user/release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2024-11-05</item>
+        <item>FINGERPRINT:google/comet_beta/comet:Baklava/BP21.241121.009/12787338:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2024-12-05</item>
     </string-array>
 
     <string-array name="config_certifiedKeybox" translatable="false">
