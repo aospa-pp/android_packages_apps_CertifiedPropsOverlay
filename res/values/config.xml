@@ -13,8 +13,8 @@
         <item>MANUFACTURER:Google</item>
         <item>BRAND:google</item>
         <item>MODEL:Pixel 9</item>
-        <item>FINGERPRINT:google/tokay_beta/tokay:15/BP11.241210.004/12926906:user/release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2025-01-05</item>
+        <item>FINGERPRINT:google/tokay_beta/tokay:Baklava/BP22.250124.010/13116449:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2025-02-05</item>
     </string-array>
 
     <string-array name="config_certifiedKeybox" translatable="false">
